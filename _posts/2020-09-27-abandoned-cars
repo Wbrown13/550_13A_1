@@ -13,3 +13,5 @@ toc_stick: true
 This is an example blog post. The posts are written in markdown.
 
 ![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+
+![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
