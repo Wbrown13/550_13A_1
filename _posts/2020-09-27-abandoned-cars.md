@@ -12,6 +12,8 @@ toc_stick: true
 
 This is an example blog post. The posts are written in markdown.
 
-![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+## Abandoned Cars
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
+
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
