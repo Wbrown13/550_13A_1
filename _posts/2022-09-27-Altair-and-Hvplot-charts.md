@@ -7,7 +7,7 @@ excerpt: "Embedding interactive charts on static pges using Jekyll."
 altair-loader:
   altair-chart-1: "charts/measlesAltairWB.json"
 hv-loader:
-  hv-chart-1: "charts/measlesHvplotWB.html"
+  hv-chart-1: ["charts/measlesHvplotWB.html", "500"]
 toc: true
 toc_sticky: true
 ---
@@ -20,12 +20,12 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
 This was produced using Altair and embedded into this static web page. Note you can also display the Python code on this page:
 
-'''python
+```python
 import altair as alt
 alt.renders.enable('notebook')
-'''
+```
 
-##HvPlot Example
+## HvPlot Example
 
 Lastly, the measles incidence produced using the HvPlot package:
 
