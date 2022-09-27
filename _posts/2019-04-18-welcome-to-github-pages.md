@@ -1,6 +1,6 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18
+title: "Welcome!"
+date: 2022-09-27
 categories:
   - blog
 tags:
@@ -8,12 +8,7 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are two main ways to make changes to your site:
-
-- Edit files within your in the browser at GitHub.com
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
-
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is my first attempt embedding static and interactive charts on static websites like Github pages. I am using a template repository from an online class. 
 
 Jekyll also offers powerful support for code snippets:
 
