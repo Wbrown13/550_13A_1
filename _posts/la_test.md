@@ -1,0 +1,34 @@
+---
+title: "Example: Hvplot Charts"
+date: 2022-10-21
+published: true
+tags: [datavis, altair, hvplot, holoviews]
+excerpt: "Embedding interactive charts on static pges using Jekyll."
+altair-loader:
+  altair-chart-1: "charts/measlesAltairWB.json"
+hv-loader:
+  hv-chart-1: ["charts/NO311_heatmap_bytype.html", "500"]
+  hv-chart-2: ["charts/NO311_choro_by_type.html", "500"]
+  hv-chart-3: ["charts/NO311_radial.html", "500"]
+  hv-chart-4: ["charts/shv_food_desert.html", "500"]
+  hv-chart-5: ["charts/shv_heat_islands.html", "500"]
+toc: true
+toc_sticky: true
+---
+
+## Hvplot Example 1
+
+Below is a heatmap that shows 311 requests in New Orleans, by request type. You can use the dropdown menu to switch between types.
+
+<div id="hv-chart-1"></div>
+
+This was produced using hvplot and embedded into this static web page. 
+
+## HvPlot Example 2
+
+Below is a map of New Orleans 311 requests. You can use the dropdown menu to switch between types of requests.
+
+<div id="hv-chart-2"></div>
+
+**Important, when embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they
+fit nicely when embedded.
