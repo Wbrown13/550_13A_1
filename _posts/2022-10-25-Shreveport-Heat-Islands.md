@@ -1,4 +1,3 @@
-
 ---
 title: "Identifying Shreveport Heat Islands with Landsat Imagery"
 date: 2022-10-25
