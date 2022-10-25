@@ -1,4 +1,3 @@
-
 ---
 title: "Shreveport Food Desert Analysis"
 date: 2022-10-25
@@ -7,7 +6,6 @@ tags: [datavis, hvplot, holoviews]
 excerpt: "A test in embedding charts on web pages with Jekyll."
 hv-loader:
   hv-chart-1: ["charts/shv_food_desert.html", "300"]
-
 toc: true
 toc_sticky: true
 ---
