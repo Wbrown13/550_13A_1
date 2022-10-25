@@ -5,8 +5,8 @@ published: true
 tags: [datavis, hvplot, holoviews]
 excerpt: "A test in embedding charts on web pages with Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/shv_mean_surface_temp.html", "300"]
-  hv-chart-2: ["charts/shv_hotspots.html", "300"]
+  hv-chart-1: ["charts/shv_mean_surface_temp.html", "500"]
+  hv-chart-2: ["charts/shv_hotspots.html", "500"]
   hv-chart-3: ["charts/shv_heat_islands.html", "300"]
 toc: true
 toc_sticky: true
