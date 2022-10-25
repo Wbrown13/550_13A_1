@@ -5,7 +5,7 @@ published: true
 tags: [datavis, hvplot, holoviews]
 excerpt: "A test in embedding charts on web pages with Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/shv_food_desert.html", "150"]
+  hv-chart-1: ["charts/shv_food_desert.html", "500"]
 toc: true
 toc_sticky: true
 ---
