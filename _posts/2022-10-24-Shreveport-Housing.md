@@ -5,10 +5,10 @@ published: true
 tags: [datavis, hvplot, holoviews]
 excerpt: "A test in embedding charts on web pages with Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/shv_zillow_line1.html", "600"]
-  hv-chart-2: ["charts/shv_zillow_line2.html", "600"]
-  hv-chart-3: ["charts/shv_zillow_line3.html", "600"]
-  hv-chart-4: ["charts/shv_zillow_heatmap.html", "600"]
+  hv-chart-1: ["charts/shv_zillow_line1.html", "100"]
+  hv-chart-2: ["charts/shv_zillow_line2.html", "100"]
+  hv-chart-3: ["charts/shv_zillow_line3.html", "100"]
+  hv-chart-4: ["charts/shv_zillow_heatmap.html", "100"]
 toc: true
 toc_sticky: true
 ---
