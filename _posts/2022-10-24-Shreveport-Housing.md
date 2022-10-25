@@ -22,8 +22,14 @@ toc_sticky: true
 
 <div id="hv-chart-1"></div>
 
+### Chart 2:
+
 <div id="hv-chart-2"></div>
 
+### Chart 3:
+
 <div id="hv-chart-3"></div>
+
+### Chart 4:
 
 <div id="hv-chart-4"></div>
