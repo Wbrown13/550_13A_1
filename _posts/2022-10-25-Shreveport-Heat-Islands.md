@@ -41,9 +41,9 @@ This map blends the redlining map with the earlier surface temperature data, sho
 
 On average, Shreveport's Class A neighborhoods indeed tend to run at least 1 degree cooler than other parts of town (with Class B areas on average being the warmest):
 
-Class A    86.2
-Class C    87.4
-Class D    87.7
-Class B    89.0
+* Class A    86.2
+* Class C    87.4
+* Class D    87.7
+* Class B    89.0
 
 Class A neighborhoods are able to keep a little cooler thanks to larger amounts of street trees and other vegetation, and are less likely to be close to industrial parks whose large paved areas and warehouse/factory buildings help to soak up heat. 
