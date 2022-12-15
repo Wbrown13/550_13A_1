@@ -3,7 +3,7 @@ title: "Identifying Shreveport Heat Islands with Landsat Imagery"
 date: 2022-10-25
 published: true
 tags: [datavis, hvplot, holoviews]
-excerpt: "A test in embedding charts on web pages with Jekyll."
+excerpt: "A test of extracting surface temperature data out of satellite images"
 hv-loader:
   hv-chart-1: ["charts/shv_mean_surface_temp.html", "600"]
   hv-chart-2: ["charts/shv_hotspots.html", "500"]
