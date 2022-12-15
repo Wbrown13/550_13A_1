@@ -3,7 +3,7 @@ title: "Shreveport Supermarket Accessibility Analysis"
 date: 2022-10-25
 published: true
 tags: [datavis, hvplot, holoviews]
-excerpt: "A test in embedding charts on web pages with Jekyll."
+excerpt: "Preliminary analysis of 'food deserts' using Google Maps API and Open Street Map data."
 hv-loader:
   hv-chart-1: ["charts/shv_food_desert.html", "610"]
 toc: true
