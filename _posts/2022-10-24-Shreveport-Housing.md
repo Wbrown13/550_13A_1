@@ -3,7 +3,7 @@ title: "Shreveport Neighborhood Housing Market in the Pandemic"
 date: 2022-10-24
 published: true
 tags: [datavis, hvplot, holoviews]
-excerpt: "A test in embedding charts on web pages with Jekyll."
+excerpt: "Analysis of how housing prices in various neighborhoods have risen (or not) since early 2020."
 hv-loader:
   hv-chart-1: ["charts/shv_zillow_line1.html", "500"]
   hv-chart-2: ["charts/shv_zillow_line2.html", "500"]
