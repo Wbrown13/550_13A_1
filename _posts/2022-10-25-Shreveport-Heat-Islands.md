@@ -13,7 +13,11 @@ toc: true
 toc_sticky: true
 ---
 
+## Introduction
+
 Located in the middle of the Sun Belt, Shreveport is famous for its hot, sticky summers. But on a searing September day, some parts of town are verifiably hotter than others. This series of maps uses Landsat imagery to examine which neighborhoods have the highest average surface temperatures.
+
+## Identifying hotspots
 
 The map below gives us a first look at an image collected by the Landsat 8 satellite on September 3, 2019, a day when air temperatures in Shreveport peaked around 100 degrees. This image already has gone through some processing: we calculated the Normalized Difference Vegetation Index (NDVI) and combined it with the image's thermal infrared data to apply atmospheric corrections and transformations needed to reveal land surface temperature. 
 
@@ -24,6 +28,8 @@ Here we can already start to make out Shreveport's major hotspots, such as the r
 The next map uses the same data from the map above, but only displays areas where surface temperatures exceed 90 degrees. Here the city's hotspots show up much more clearly - in addition to the regional airport, we can see that surface temperatures are quite high in downtown Shreveport, the shopping strip at Youree Drive, and various industrial areas around town. This patterns mirror urban 'heat island' effects found in cities around the country, where a lack of vegetation and large amounts of paved areas and big, dark building roofs soak up heat and warm the areas around them. 
 
 <div id="hv-chart-2"></div>
+
+## Overlaying hotspots with redlining boundaries
 
 The next pair of maps examine Shreveport's heat islands in the context of redlining, the New Deal-era practice in which cities' neighborhoods were divided into categories of supposed investment risk, but often isolated minority neighborhoods and denied their residents much-needed loans, with consequences extending to the present day. 
 
