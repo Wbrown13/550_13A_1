@@ -10,7 +10,7 @@ toc_sticky: true
 
 ## Introduction
 
-This page shows images from a sample article I wrote for the Foreign Policy policy website. While a researcher in China, I frequently pitched articles to Foreign Policy editors to convey trends about the country's development to a wider audience. Many of these pieces relied on data-driven maps that I made at home with QGIS.
+This page shows images from a sample article I wrote for the Foreign Policy policy website. While a researcher in China, I frequently pitched articles to Foreign Policy editors to convey trends about the country's development to a wider audience. Many of these pieces relied on data-driven maps that I made with QGIS and Adobe Illustrator.
 
 The images below come from [this article on China's unequal regional development](https://foreignpolicy.com/2014/05/12/mapping-the-four-cs-of-chinese-wealth/). Not all of the maps load reliably on Foreign Policy's web page, so I am reproducing them below (with FP's permission). 
 
