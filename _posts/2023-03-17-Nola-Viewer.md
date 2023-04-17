@@ -8,6 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
-![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
 
-![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/input_to_landing.gif
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/input_to_landing.gif)
