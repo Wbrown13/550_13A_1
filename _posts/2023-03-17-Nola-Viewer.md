@@ -7,7 +7,18 @@ excerpt: "A tour of an online application that takes user input, query a databas
 toc: true
 toc_sticky: true
 ---
+## Introduction
 
-![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+
+## User Input Page
 
 ![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/input_to_landing.gif)
+
+## General Charts and Maps
+
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/landing_tour_hover.gif)
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/landing_tour_zoom.gif)
+
+## Detailed Charts and Maps
+
+![alt-text]({{ site.url }}{{ site.baseurl }}/assets/images/drill_down.gif)
